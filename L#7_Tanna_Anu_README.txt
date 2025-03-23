@@ -4,7 +4,7 @@
 * *Date Created*: 22 003 2025
 * *Last Modification Date*: 22 003 2025
 * *Lab Gitlab*: <https://git.cs.dal.ca/tanna/3172/-/tree/main/Lab/Lab7>
-* *Lab Netlify*: <https://eclectic-banoffee-033ff4.netlify.app/#hero>
+* *Lab Netlify*: <https://dainty-kelpie-be20ec.netlify.app/>
 
 
 # Authors
