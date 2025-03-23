@@ -1,0 +1,19 @@
+[
+    {
+      "id": 1,
+      "name": "Meme Generator",
+      "author": "Anu Tanna",
+      "languages": ["React", "JavaScript", "CSS"],
+      "description": "A fun React-based meme generator where users can create and download custom memes.",
+      "link": "https://strong-mousse-2717c7.netlify.app/"
+    },
+    {
+      "id": 2,
+      "name": "West Atlantic Tech",
+      "author": "West Atlantic Tech Team",
+      "languages": ["HTML", "CSS", "JavaScript", "WordPress"],
+      "description": "A professional website showcasing IT and software solutions provided by West Atlantic Tech.",
+      "link": "https://westatlantictech.com/"
+    }
+  ]
+  
